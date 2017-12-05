@@ -1,0 +1,28 @@
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\Core2.0.deps.json
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\Core2.0.runtimeconfig.json
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\Core2.0.runtimeconfig.dev.json
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\Core2.0.dll
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.csproj.CoreCompileInputs.cache
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.AssemblyInfoInputs.cache
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.AssemblyInfo.cs
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.csprojResolveAssemblyReference.cache
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\bin\Debug\netcoreapp2.0\Core2.0.pdb
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.dll
+c:\users\v-jassow\documents\visual studio 2017\Projects\CoreTesting-Final\Core2.0\obj\Debug\netcoreapp2.0\Core2.0.pdb
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\Core2.0.deps.json
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\Core2.0.runtimeconfig.json
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\Core2.0.runtimeconfig.dev.json
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\Core2.0.dll
+C:\source\gitHub\jason-core\bin\Debug\netcoreapp2.0\Core2.0.pdb
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.csprojResolveAssemblyReference.cache
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.csproj.CoreCompileInputs.cache
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.AssemblyInfoInputs.cache
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.AssemblyInfo.cs
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.dll
+C:\source\gitHub\jason-core\obj\Debug\netcoreapp2.0\Core2.0.pdb
